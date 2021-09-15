@@ -4,7 +4,7 @@
 
 If you have ever wondered who are the people behind the mlr and mlr3 R packages, here's some information about us:
 We are currently between 5 - 10 active developers who work on the mlr-org packages (mainly on the mlr3 packages).
-Most of us are from the LMU Munich ([Computational Statistics Group](https://www.slds.stat.uni-muenchen.de/people/bischl/)) and TU Dortmund ([Department of Statistics](https://www.statistik.tu-dortmund.de/lang.html)) universities or were somehow related to these at some point.
+Most of us are from the LMU Munich ([Statistial Learning and Data Science](https://www.slds.stat.uni-muenchen.de/people/bischl/)) and TU Dortmund ([Department of Statistics](https://www.statistik.tu-dortmund.de/lang.html)) universities or were somehow related to these at some point.
 We also have people from the [Alan Turing institute](https://www.turing.ac.uk/) contributing to our projects.
 You can find more information about the individual people on [this Wiki page](https://github.com/mlr-org/mlr3/wiki/Developer-Team).
 
