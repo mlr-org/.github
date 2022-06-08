@@ -1,0 +1,32 @@
+name: Bug Report
+description: Found something you weren't expecting? Report it here!
+labels: kind/bug
+body:
+- type: markdown
+  attributes:
+    value: |
+      1. Make sure you are using the latest release and
+         take a moment to check that your issue hasn't been reported before.
+      2. Please give all relevant information below for bug reports.
+      3. If possible, please use tasks that come with mlr3 and not your personal data.
+      4. The `mlr3verse` consists of many different packages. Please try to raise the issue in the
+         correct repository so the person who is responsible will see it as soon as possible.
+- type: textarea
+  id: description
+  attributes:
+    label: Description
+    description: |
+      Please provide a description of your issue here.
+- type: textarea
+  id: code
+  attributes:
+    label: Reproducible example
+    description: |
+      Provide a reproducible example, i.e. code that allows it to reproduce your problem in a clean environment.
+      You can use the [reprex](https://github.com/tidyverse/reprex) package to do so.
+- type: textarea
+  id: sessioninfo
+  attributes:
+    label: Session info
+    description: |
+      Provide the output of `sessionInfo()` here.
