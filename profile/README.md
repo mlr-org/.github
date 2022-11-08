@@ -23,7 +23,7 @@ Here is a list of mlr-org related resources that should help to get you started:
 
 - [mlr3book](https://github.com/mlr-org/mlr3book) - Our main documentation resource
 - [mlr3](https://mlr3.mlr-org.com/) - The mlr3 core package
-- [mlr3gallery](https://mlr3gallery.mlr-org.com/) - A collection of use mlr3 use cases
+- [mlr3gallery](https://mlr-org.com/gallery.html) - A collection of use mlr3 use cases
 - [mlr-blog](https://mlr-org.com/) - Our official blog
 - [mlr-outreach](https://github.com/mlr-org/mlr-outreach) - A collection of all presentations we gave in the last years
 - [mlr3learners overview](https://mlr3extralearners.mlr-org.com/articles/learners/list_learners.html) - All learners currently supported by mlr3
