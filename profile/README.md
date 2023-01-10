@@ -21,12 +21,10 @@ To finance these and cover (parts of) the travel costs, we use donations via [Gi
 
 Here is a list of mlr-org related resources that should help to get you started:
 
+- [mlr-org website](https://mlr-org.com/) - Our official website, which for example includes a [blog](https://mlr-org.com/blog.html), a [gallery]( https://mlr-org.com/gallery.html) and a [learner overview](https://mlr-org.com/learners.html).
 - [mlr3book](https://github.com/mlr-org/mlr3book) - Our main documentation resource
 - [mlr3](https://mlr3.mlr-org.com/) - The mlr3 core package
-- [mlr3gallery](https://mlr-org.com/gallery.html) - A collection of use mlr3 use cases
-- [mlr-blog](https://mlr-org.com/) - Our official blog
 - [mlr-outreach](https://github.com/mlr-org/mlr-outreach) - A collection of all presentations we gave in the last years
-- [mlr3learners overview](https://mlr3extralearners.mlr-org.com/articles/learners/list_learners.html) - All learners currently supported by mlr3
 - [mlr3 cheatsheets](https://github.com/mlr-org/mlr3cheatsheets) - A collection of mlr3 cheatsheets
 - [mlr3 Wiki](https://github.com/mlr-org/mlr3/wiki) - Developer related information
 
